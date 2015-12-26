@@ -1,0 +1,3 @@
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
+gems:
+  - jekyll-babel
